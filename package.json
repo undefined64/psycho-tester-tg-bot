@@ -1,0 +1,25 @@
+{
+  "name": "psychobot",
+  "version": "1.0.0",
+  "description": "simple telegram bot for studying purposes",
+  "main": "src/index.cjs",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undefined64/psycho-tester-tg-bot.git"
+  },
+  "author": "undefined64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undefined64/psycho-tester-tg-bot/issues"
+  },
+  "homepage": "https://github.com/undefined64/psycho-tester-tg-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
